@@ -1,4 +1,3 @@
-# this is a print statement
 using System;
 
 class Program
